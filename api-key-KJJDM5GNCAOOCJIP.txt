@@ -1,0 +1,11 @@
+=== Confluent Cloud API key: lsrc-ymvqq6 ===
+
+API key:
+KJJDM5GNCAOOCJIP
+
+API secret:
+wT0cqDoK+98RiVbtFPXUjhq9WZ3KEqs5aTy2c+o6Fez6VW9dlql0o4W1FqXfAr73
+
+
+Endpoint
+https://psrc-znpo0.ap-southeast-2.aws.confluent.cloud
